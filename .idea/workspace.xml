@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c62acf5-8d52-4dc0-8163-50a42d1dcde5" name="Changes" comment="navbar bootstrap" />
+    <list default="true" id="0c62acf5-8d52-4dc0-8163-50a42d1dcde5" name="Changes" comment="navbar bootstrap">
+      <change afterPath="$PROJECT_DIR$/3column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redesign/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examplebootstrapTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/examplebootstrapTemplate.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +47,8 @@
       <workItem from="1636980938883" duration="122000" />
       <workItem from="1637072845891" duration="1396000" />
       <workItem from="1637074260618" duration="998000" />
+      <workItem from="1637156674805" duration="1366000" />
+      <workItem from="1637158085363" duration="1510000" />
     </task>
     <task id="LOCAL-00001" summary="navbar bootstrap">
       <created>1636980977554</created>
@@ -57,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637075255082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="navbar bootstrap">
+      <created>1637156689677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637156689677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
